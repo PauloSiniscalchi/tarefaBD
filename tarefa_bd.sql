@@ -216,7 +216,9 @@ SELECT * FROM item_pedido WHERE id_pedido = 4;
 
 SELECT * FROM pedido WHERE id_cliente = 2;
 
+Faltou 2 que eu não sei fazer Rodolfo, sorry
 
+Aqui é CBJR
 
 SELECT * FROM produto WHERE qtd<50;
 
